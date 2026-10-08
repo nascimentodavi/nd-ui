@@ -1,2 +1,6 @@
 @import "tokens";
 @import "bootstrap/scss/bootstrap";
+
+:root {
+    --nd-basic-white: #{$basic-white};
+}
